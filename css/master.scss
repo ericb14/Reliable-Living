@@ -1,0 +1,54 @@
+$darkblue:#38A8DC;
+$lightblue:#9EEDFD;
+$grey:#606060;
+$montserrat: 'Montserrat', sans-serif;
+
+
+
+h1,h2{
+  color: $darkblue;
+  // font-family: $montserrat;
+  font-family: 'Nunito', sans-serif;
+  text-transform: uppercase;
+  padding-bottom: 2em;
+}
+h3,h4{
+  color: $darkblue;
+  // font-family: $montserrat;
+  font-family: 'Nunito', sans-serif;
+
+}
+
+.section{
+  padding-top: 4em;
+  padding-left: .5em;
+  padding-right: .5em;
+}
+p{
+  color: $grey;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 1.2em;
+}
+.brand{
+max-width:300px;
+}
+// === SECTION 1 ABOUT ===
+#about{
+h1{
+
+
+}
+}
+
+// === SECTION 2 SERVICES ===
+.back_ground{
+padding: 3em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// === SECTION 3 ABOUT US ===
+#about_us{
+
+}

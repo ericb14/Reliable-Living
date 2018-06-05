@@ -1,0 +1,28 @@
+h1, h2 {
+  color: #38A8DC;
+  font-family: 'Nunito', sans-serif;
+  text-transform: uppercase;
+  padding-bottom: 2em; }
+
+h3, h4 {
+  color: #38A8DC;
+  font-family: 'Nunito', sans-serif; }
+
+.section {
+  padding-top: 4em;
+  padding-left: .5em;
+  padding-right: .5em; }
+
+p {
+  color: #606060;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.2em; }
+
+.brand {
+  max-width: 300px; }
+
+.back_ground {
+  padding: 3em;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
